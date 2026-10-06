@@ -1,0 +1,1 @@
+# genpark-autonomous-software-ui-clickpath-and-macro-executor-skill\n\nModels user journey sequences, conditional decision branches, and execution action trees for autonomous software navigation.\n\n100% Python Standard Library implementation with zero external dependencies.
